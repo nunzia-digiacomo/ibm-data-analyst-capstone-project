@@ -12,4 +12,4 @@ IBM Cognos Analytics, Excel, Python (optional for data prep)
 
 ### Files
 - `Final_Dashboard.pdf`
-- `Presentation_Slides.pdf`
+- `Capstone_Presentation.pdf`
