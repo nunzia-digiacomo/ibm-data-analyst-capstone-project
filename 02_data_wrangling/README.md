@@ -9,9 +9,7 @@ This module focuses on cleaning, transforming, and preparing datasets for analys
 - Ensured dataset consistency and integrity  
 
 ### Tools and Libraries
-Pandas, NumPy  
+Python, Pandas, NumPy  
 
 ### Files
-- `Removing_Duplicates.ipynb`
-- `Finding_Missing_Values.ipynb`
-- `Normalizing_Data.ipynb`
+- `M2DataWrangling-lab-v2-v1.ipynb`
