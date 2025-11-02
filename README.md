@@ -32,12 +32,12 @@ Through this project, I applied the **data analysis workflow**:
 ## Repository Structure
 
 ibm-data-analyst-capstone-project/
-│
-├── 01_data_collection/ # Data collection via APIs & web scraping
-├── 02_data_wrangling/ # Data cleaning and transformation
-├── 03_exploratory_data_analysis/ # Exploratory data analysis (EDA)
-├── 04_data_visualization/ # Data visualization and charts
-└── 05_dashboard_and_presentation/ # Final dashboard and presentation
+
+ - 01_data_collection/ # Data collection via APIs & web scraping
+ - 02_data_wrangling/ # Data cleaning and transformation
+ - 03_exploratory_data_analysis/ # Exploratory data analysis (EDA)
+ - 04_data_visualization/ # Data visualization and charts
+ - 05_dashboard_and_presentation/ # Final dashboard and presentation
 
 
 Each folder contains Jupyter notebooks, scripts, and a short README describing that phase of the project.
