@@ -14,4 +14,3 @@ Python, Requests, BeautifulSoup, Pandas, JSON, CSV
 ### Files
 - `Jobs_API.ipynb`
 - `Web-Scraping-Lab.ipynb`
-- `Collecting_Jobs_Data_Using_API.ipynb`
